@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dyuti!
 
-🎓 I'm a pre-final year Electronics and Communication Engineering student.  
+🎓 I'm a final year Electronics and Communication Engineering student.  
 💻 I'm exploring Spring Boot and web development.  
 🤖 I'm passionate about Machine Learning and AI.  
 
