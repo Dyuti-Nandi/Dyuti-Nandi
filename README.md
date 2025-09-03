@@ -10,8 +10,8 @@
 - Advanced Data Structures & Algorithms  
 
 📫 How to reach me:  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](www.linkedin.com/in/dyutinandi)  
+- [Email](dyutinandi7@gmail.com)  
 
 ---
 
