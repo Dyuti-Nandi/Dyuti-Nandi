@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋 I’m Dyuti Nandi
 
-<!--
-**Dyuti-Nandi/Dyuti-Nandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-final year Electronics and Communication Engineering student  
+💻 Exploring Spring Boot & Web Development  
+🤖 Interested in Machine Learning & AI  
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:  
+- Spring Boot & backend development  
+- Machine Learning & data-driven projects  
+- Advanced Data Structures & Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [Email](mailto:your.email@example.com)  
+
+---
+
+### 📊 GitHub Stats
+
+![Dyuti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dyuti-Nandi&show_icons=true&theme=radical) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dyuti-Nandi&layout=compact&theme=radical)
+
+---
+
+⚡ Fun fact:  
+I love solving Sudoku 🧩 in my free time!
+
